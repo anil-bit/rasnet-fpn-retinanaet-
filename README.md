@@ -1,4 +1,4 @@
-# vgg-fpn
+# retinanet
 
 # Installation
 
